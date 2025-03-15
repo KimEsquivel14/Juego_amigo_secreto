@@ -52,7 +52,8 @@ El juego de Amigo Secreto es una aplicación web simple que permite a los usuari
 
 ## Capturas de Pantalla
 
-![image](https://github.com/user-attachments/assets/16e7bc98-08d9-4eab-bd69-8428bd185b20)
+![image](https://github.com/user-attachments/assets/54a6509a-6203-43de-8fda-66ebe31325b5)
+
 
 
 ## Licencia
